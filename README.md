@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 - Java
 - Testing(Jest, JUnit)
 - NodeJS
-- React
+- ReactJs
+- Express
+- MongoDB
