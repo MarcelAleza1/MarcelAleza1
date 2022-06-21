@@ -6,8 +6,8 @@ I'm a Software Engineer and a Data Analyst
 - I'm currently advancing my knowledge in machine learning
 
 
-**Reachme via**
-`[WEBSITE](https://marcelaleza1.github.io/portfolio)` 
+<!-- **Reachme via**
+`[WEBSITE](https://marcelaleza1.github.io/portfolio)`  -->
 <!--
 **MarcelAleza1/MarcelAleza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
