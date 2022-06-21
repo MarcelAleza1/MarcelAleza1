@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - Data analysis
 - Machine learning
 - Deep Learning
+- Data Wrangling
+- Data Visualization
 - SQL
 - git
 - Linux
