@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Mazi Essoloani Aleza.
+I'm a Software Engineer and a Data Analyst
+
+- Master of Engineering (Artificial Intelligence and MAchine Learning) from Chandigarh University (India)
+
 
 <!--
 **MarcelAleza1/MarcelAleza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
