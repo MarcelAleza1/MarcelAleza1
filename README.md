@@ -6,8 +6,8 @@ I'm a Software Engineer and a Data Analyst
 - I'm currently advancing my knowledge in machine learning
 
 
-<!-- **Reachme via**
-`[WEBSITE](https://marcelaleza1.github.io/portfolio)` -->
+**Reachme via**
+`[WEBSITE](https://marcelaleza1.github.io/portfolio)` 
 <!--
 **MarcelAleza1/MarcelAleza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 - SQL
 - git
 - Linux
-
-![Mazi'sGitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelAleza1&theme=radical)
 - Python
 - C/C++
 - Java
