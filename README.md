@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - SQL
 - git
 - Linux
+
+![Mazi'sGitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelAleza1&theme=radical)
 - Python
 - C/C++
 - Java
