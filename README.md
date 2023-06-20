@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Mazi'sGitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelAleza1&theme=radical)
+<!--![Mazi'sGitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelAleza1&theme=radical)-->
 <!--![Top lang](https://github-readme-stats.vercel.app/api/top-langs?username=MarcelAleza1&layout=compact)--> 
 
 **My Skills**
